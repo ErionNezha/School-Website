@@ -1,5 +1,7 @@
 # School-Website
 
+Created by **Erion Nezha**
+
 Faqe interneti për shkollë — kreu, kurse, rreth nesh dhe kontakt — e përshtatur plotësisht në gjuhën shqipe.
 
 **Demo live:** https://erionnezha.github.io/School-Website/
@@ -43,11 +45,13 @@ cd School-Website
 
 ## Licenca
 
-MIT — shih [LICENSE](LICENSE).
+© 2026 Erion Nezha. All rights reserved — shih [LICENSE](LICENSE).
 
 ---
 
 # School-Website
+
+Created by **Erion Nezha**
 
 School website — home, courses, about and contact pages — fully localized in Albanian.
 
@@ -92,4 +96,4 @@ cd School-Website
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+© 2026 Erion Nezha. All rights reserved — see [LICENSE](LICENSE).
